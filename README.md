@@ -24,3 +24,9 @@
 ./openvpn-install-2.4.8-I601-Win10.exe
 # openvpn win10客户端，自带中文
 ```
+
+#### filebeat
+```console
+# ELK 提供的配套小工具 Filebeat。它能将指定路径下的日志文件转发给 ELK，支持增量传输。
+./filebeat-7.6.0-linux-x86_64.tar.gz
+```
